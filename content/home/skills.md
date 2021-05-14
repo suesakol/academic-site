@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "Here are some of the things I do well..."
 
 # Showcase personal skills or business features.
 # Add/remove as many `[[feature]]` blocks below as you like.
@@ -27,7 +27,7 @@ subtitle = ""
 [[feature]]
   icon = "open-materials"
   icon_pack = "ai"
-  name = "Photography"
+  name = "Open science"
 #  description = "10%"
 
 # Uncomment to use emoji icons.
