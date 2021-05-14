@@ -14,7 +14,7 @@ role: Lecturer of Linguistics
 
 # Organizations/Affiliations
 organizations:
-- name: Faculty of Liberal Arts, Thammasat University
+- name: Faculty of Liberal Arts Thammasat University
   url: "https://arts.tu.ac.th/en"
 
 # Short bio (displayed in user profile at end of posts)
