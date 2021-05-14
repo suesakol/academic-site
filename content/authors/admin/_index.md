@@ -14,16 +14,15 @@ role: Lecturer of Linguistics
 
 # Organizations/Affiliations
 organizations:
-- name: Thammasat University
-  url: ""
+- name: Faculty of Liberal Arts, Thammasat University
+  url: "https://arts.tu.ac.th/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include adult second/additional language learning, statistical learning, and bayesian data analysis.
 
 interests:
-- Statistical learning in adult learners
-- Language adaptation 
-- Second and additional language learning
+- Statistical learning in adult L2/Ln learners
+- Expectation-based adaptation 
 - Bayesian data analysis
 
 education:
@@ -46,13 +45,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:suesakol@staff.tu.ac.th"
+
 - icon: github
   icon_pack: fab
   link: https://github.com/suesakol
 
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=eiHA6CsAAAAJ&hl=en&authuser=1&oi=ao
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
