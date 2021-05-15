@@ -74,5 +74,5 @@ highlight_name: false
 # - Visitors
 ---
 
-I am a lecturer of linguistics in the Department of English and Linguistics at Thammasat University, Thailand. My research investigates issues related to probabilistic statistical information that bi/multilingual speakers recruit in second (L2) or additional language (Ln) processing and learning. Using a number of experimental methods, my research seeks to understand how such information guides online processing and shapes long-term representation of linguistic constructions in bi/multilinguals. I teach undergraduate courses in teaching methods and L2 acquisition.
+I am a lecturer of linguistics in the Department of English and Linguistics at Thammasat University, Thailand. My research investigates issues related to probabilistic statistical information that bi/multilingual speakers recruit in second (L2) or additional language (Ln) processing and learning. Using a number of experimental methods, my research seeks to understand how such information guides online processing and shapes long-term representation of linguistic constructions in bi/multilinguals. I teach undergraduate courses in teaching methods and L2 acquisition and graduate courses in introduction to linguistics.
 
