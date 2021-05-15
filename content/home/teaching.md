@@ -6,7 +6,7 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
@@ -52,4 +52,6 @@ subtitle = ""
 
 ## 2021--2022 Courses
 
-# Semester 1: Language and Computer [LG 467]
+### Semester 1: Language and Computer [LG 467]
+
+*Course description*: This course focuses on...
