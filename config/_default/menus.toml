@@ -14,19 +14,14 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Teaching"
+  url = "#Teaching"
   weight = 30
 
 [[main]]
   name = "Publications"
   url = "#featured"
   weight = 40
-
-# [[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 60
 
 
 # Link to a PDF of your resume/CV from the menu.
@@ -36,3 +31,9 @@
     name = "CV"
     url = "files/Sakol_CV.pdf"
     weight = 50
+
+
+# [[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 60
