@@ -21,9 +21,11 @@ organizations:
 bio: My research interests include adult second/additional language learning, statistical learning, and bayesian data analysis.
 
 interests:
-- Statistical learning in adult L2/Ln learners
+- Statistical learning abilities of adult L2/Ln learners
 - Expectation-based adaptation 
+- Psycholinguistics
 - Bayesian data analysis
+
 
 education:
   courses:
