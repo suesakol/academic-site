@@ -25,6 +25,12 @@ subtitle = "Here are some of the things I do well..."
 #  description = "100%"  
   
 [[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Statistics"
+#  description = "10%"
+
+[[feature]]
   icon = "open-materials"
   icon_pack = "ai"
   name = "Open science"
