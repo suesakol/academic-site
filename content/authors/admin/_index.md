@@ -18,7 +18,7 @@ organizations:
   url: "https://arts.tu.ac.th/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include adult second/additional language learning, statistical learning, and bayesian data analysis.
+bio:
 
 interests:
 - Statistical learning abilities of adult L2/Ln learners
