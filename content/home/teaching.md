@@ -54,4 +54,4 @@ subtitle = ""
 
 ### Semester 1: LG 467 [Language and Computer]({{< ref "courses/LG467/Sem_1_2021.md" >}})
 
-*Course description*: This course focuses on...
+*Course description*: This course introduces students to key concepts in computational and corpus linguistics.
