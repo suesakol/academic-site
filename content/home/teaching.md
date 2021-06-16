@@ -52,6 +52,6 @@ subtitle = ""
 
 ## 2021--2022 Courses
 
-### Semester 1: Language and Computer [LG 467] [here]({{< ref "courses/LG467/Sem_1_2021.md" >}})
+### Semester 1: LG 467 [Language and Computer]({{< ref "courses/LG467/Sem_1_2021.md" >}})
 
 *Course description*: This course focuses on...
